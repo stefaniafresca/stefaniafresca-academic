@@ -1,6 +1,5 @@
 ---
-title: Stefania Fresca
-role: Assistant Professor
+avatar_filename: p101165801012015269.jpg
 bio: My research interests scientific machine learning, reduced order modeling
   and AI.
 interests:
@@ -36,7 +35,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Assistant Professor
 highlight_name: true
+title: Stefania Fresca
 first_name: Alice
 email: stefania.fresca@polimi.it
 ---
