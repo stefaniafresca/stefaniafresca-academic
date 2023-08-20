@@ -30,7 +30,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: MOX Laboratory -  Department of Mathematics, Politecnico di Milano
+  - name: Department of Mathematics, Politecnico di Milano
 education:
   courses:
     - course: PhD in Artificial Intelligence
