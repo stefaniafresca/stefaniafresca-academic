@@ -39,9 +39,13 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Mathematical Engineering
+      institution: Politecnico di Milano
+    - course: MSc in Mathematical Engineering - Computational Science and Engineering
+      institution: Politecnico di Milano - Université Pierre et Marie Curie (Sorbonne
+        Universités)
+    - course: PhD in Mathematical Models and Methods in Engineering
+      institution: Politecnico di Milano
 superuser: true
 status:
   icon: ☕️
