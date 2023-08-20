@@ -33,19 +33,16 @@ organizations:
   - name: Department of Mathematics, Politecnico di Milano
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Mathematical Engineering
+    - course: PhD in Mathematical Models and Methods in Engineering
       institution: Politecnico di Milano
+      year: 2021
     - course: MSc in Mathematical Engineering - Computational Science and Engineering
       institution: Politecnico di Milano - Université Pierre et Marie Curie (Sorbonne
         Universités)
-    - course: PhD in Mathematical Models and Methods in Engineering
+      year: 2017
+    - course: BSc in Mathematical Engineering
       institution: Politecnico di Milano
+      year: 2014
 superuser: true
 status:
   icon: ☕️
