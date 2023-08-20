@@ -1,8 +1,8 @@
 ---
 title: Stefania Fresca
 role: Assistant Professor
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests scientific machine learning, reduced order modeling
+  and AI.
 interests:
   - Reduced order modeling
 social:
