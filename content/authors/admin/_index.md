@@ -9,12 +9,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=HGeGJpcAAAAJ&hl=it
@@ -24,9 +18,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 organizations:
   - name: Department of Mathematics, Politecnico di Milano
 education:
