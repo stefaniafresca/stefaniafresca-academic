@@ -4,7 +4,7 @@ role: Assistant Professor
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Reduced-order-modeling
+  - Reduced order modeling\\
 social:
   - icon: envelope
     icon_pack: fas
