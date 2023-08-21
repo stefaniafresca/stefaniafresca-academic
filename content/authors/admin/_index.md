@@ -41,5 +41,6 @@ title: Stefania Fresca
 first_name: Alice
 email: stefania.fresca@polimi.it
 ---
-Stefania Fresca is assistant professor at MOX (Laboratory for Modeling and Scientific Computing) at Politecnico di Milano. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Stefania Fresca is Assistant Professor in Numerical Analysis at MOX (Laboratory for Modeling and Scientific Computing), Department of Mathematics, Politecnico di Milano, Italy. \\
+After carrying out her Ph.D. (awarded cum laude in 2021) in the framework of the ERC Advanced Grant Project iHEART (PI: Prof. Alfio Quarteroni) devoted to cardiac modeling, she spent two years as Post-Doctoral Research Fellow at MOX. Her research interests and expertise include scientific machine learning, reduced order modeling, deep learning, numerical approximation of PDEs, with several applications to engineering problems.
 {style="text-align: justify;"}
