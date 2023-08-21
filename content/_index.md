@@ -37,18 +37,15 @@ sections:
               * Data extraction activities through SQL
               * Automation of Data Quality processes through Access and VBA
         - title: Visiting
-          company: Ernst & Young
+          company: Isaac Newton Institute for Mathematical Sciences, University of Cambridge
           company_url: ''
           company_logo: org-gc
-          location: Milano, Italy
-          date_start: '2017-06-01'
-          date_end: '2017-11-01'
+          location: Cambridge, UK
+          date_start: '2023-03-01'
+          date_end: '2023-03-31'
           description: |2-
-              Responsibilities include:
+              Invitation to participate to the program "The mathematical and statistical foundation of future data-driven engineering"
 
-              * Design and data modelling of a Datamart
-              * Data extraction activities through SQL
-              * Automation of Data Quality processes through Access and VBA
         - title: Risk Advisory Intern
           company: Ernst & Young
           company_url: ''
