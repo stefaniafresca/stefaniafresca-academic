@@ -16,7 +16,7 @@ social:
     link: https://github.com/stefaniafresca
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/stefania-fresca-505447161
 organizations:
   - name: Department of Mathematics, Politecnico di Milano
 education:
