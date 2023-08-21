@@ -88,3 +88,11 @@
   icon_pack = "ai"
   icon = "researchgate"
   enable = true
+
+  [[buttons]]
+  id = "orcid"
+  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
+  title = "ORCID"
+  icon_pack = "ai"
+  icon = "orcid"
+  enable = true

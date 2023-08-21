@@ -13,14 +13,17 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=HGeGJpcAAAAJ&hl=it
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Stefania-Fresca
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-8599-6588
   - icon: github
     icon_pack: fab
     link: https://github.com/stefaniafresca
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/stefania-fresca-505447161
-  - icon: researchgate
-    icon_pack: ai
     link: www.linkedin.com/in/stefania-fresca-505447161
 organizations:
   - name: Department of Mathematics, Politecnico di Milano
