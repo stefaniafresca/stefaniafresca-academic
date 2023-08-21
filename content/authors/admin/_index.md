@@ -4,7 +4,9 @@ role: Assistant Professor
 bio: My research interests scientific machine learning, reduced order modeling
   and AI.
 interests:
+  - Scientific machine learning
   - Reduced order modeling
+  - AI
 social:
   - icon: envelope
     icon_pack: fas
