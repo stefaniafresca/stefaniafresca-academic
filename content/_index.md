@@ -58,7 +58,7 @@ sections:
         - title: Exchange Program
           company: Université Pierre et Marie Curie (Sorbonne Universités)
           company_url: ''
-          company_logo: org-x.jpg
+          company_logo: org-x
           location: Paris, France
           date_start: '2015-09-01'
           date_end: '2016-03-01'
