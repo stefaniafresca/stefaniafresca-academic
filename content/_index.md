@@ -27,7 +27,7 @@ sections:
           company: Ernst & Young
           company_url: ''
           company_logo: org-gc
-          location: Milano
+          location: Milano, Italy
           date_start: '2017-06-01'
           date_end: '2017-11-01'
           description: |2-
@@ -40,10 +40,10 @@ sections:
           company: Université Pierre et Marie Curie (Sorbonne Universités)
           company_url: ''
           company_logo: org-x
-          location: Paris
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Paris, France
+          date_start: '2015-09-01'
+          date_end: '2016-03-01'
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
