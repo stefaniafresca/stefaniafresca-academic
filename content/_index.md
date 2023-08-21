@@ -79,6 +79,16 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: talks
+    content:
+      title: Upcoming &shy; Dates
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -195,16 +205,6 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    id: talks
-    content:
-      title: Upcoming &shy; Dates
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   #- block: tag_cloud
   #  content:
   #    title: Popular Topics
