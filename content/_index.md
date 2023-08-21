@@ -191,19 +191,6 @@ sections:
   - block: collection
     content:
       title: Publications
-      social:
-      - icon: envelope
-        icon_pack: fas
-        link: /#contact
-      - icon: graduation-cap
-        icon_pack: fas
-        link: https://scholar.google.com/citations?user=HGeGJpcAAAAJ&hl=it
-      - icon: github
-        icon_pack: fab
-        link: https://github.com/stefaniafresca
-      - icon: linkedin
-        icon_pack: fab
-        link: www.linkedin.com/in/stefania-fresca-505447161
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
