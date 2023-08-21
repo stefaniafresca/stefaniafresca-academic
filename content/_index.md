@@ -52,8 +52,8 @@ sections:
               * Design and data modelling of a Datamart
               * Data extraction activities through SQL
               * Automation of Data Quality processes through Access and VBA
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Exchange Program
+          company: Université Pierre et Marie Curie (Sorbonne Universités)
           company_url: ''
           company_logo: org-x
           location: California
