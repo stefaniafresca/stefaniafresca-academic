@@ -40,7 +40,7 @@ sections:
           date_start: ''
           date_end: '2023-03-31'
           description: |2-
-              Invitation to participate to the program "The mathematical and statistical foundation of future data-driven engineering"
+              Participation to the program "The mathematical and statistical foundation of future data-driven engineering"
 
         - title: Risk Advisory Intern
           company: Ernst & Young
