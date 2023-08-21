@@ -23,19 +23,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: FAIR
-          company: Ernst & Young
-          company_url: ''
+        - title: Assistant Professor
+          company: Future Artificial Intelligence Research (FAIR) Project
+          company_url: 'https://future-ai-research.it'
           company_logo: org-gc
           location: Milano, Italy
-          date_start: '2017-06-01'
-          date_end: '2017-11-01'
-          description: |2-
-              Responsibilities include:
+          date_start: '2023-02-09'
+          date_end: ''
+          description: ''
 
-              * Design and data modelling of a Datamart
-              * Data extraction activities through SQL
-              * Automation of Data Quality processes through Access and VBA
         - title: Visiting
           company: Isaac Newton Institute for Mathematical Sciences, University of Cambridge
           company_url: ''
