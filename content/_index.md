@@ -11,22 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -133,7 +117,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Media & Communications
       filters:
         folders:
           - project
@@ -149,10 +133,10 @@ sections:
           tag: '*'
         - name: Research Talks
           tag: Research Talks
-        - name: Blog Posts
-          tag: Blog Posts
         - name: Outreach
           tag: Outreach
+        - name: Blog Posts
+          tag: Blog Posts
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
