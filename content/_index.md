@@ -37,7 +37,7 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Cambridge, UK
-          date_start: ''
+          date_start: '2023-03-31'
           date_end: '2023-03-31'
           description: |2-
               Participation to the program "The mathematical and statistical foundation of future data-driven engineering"
