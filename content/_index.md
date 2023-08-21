@@ -75,7 +75,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false #per vederle tutte
+        exclude_featured: false #per vederle tutte o meno
     design:
       columns: '2'
       view: citation
