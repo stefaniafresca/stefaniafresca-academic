@@ -45,7 +45,7 @@ sections:
         - title: Risk Advisory Intern
           company: Ernst & Young
           company_url: ''
-          company_logo: org-gc
+          company_logo: EY_logo_2019
           location: Milano, Italy
           date_start: '2017-06-01'
           date_end: '2017-11-01'
