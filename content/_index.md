@@ -57,8 +57,8 @@ sections:
               * Automation of Data Quality processes through Access and VBA
         - title: Exchange Program
           company: Université Pierre et Marie Curie (Sorbonne Universités)
-          company_url: ''
-          company_logo: UPMC
+          company_url: 'https://www.sorbonne-universite.fr/en'
+          company_logo: Sorbonne
           location: Paris, France
           date_start: '2015-09-01'
           date_end: '2016-03-01'
