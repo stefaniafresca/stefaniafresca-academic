@@ -23,6 +23,32 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: FAIR
+          company: Ernst & Young
+          company_url: ''
+          company_logo: org-gc
+          location: Milano, Italy
+          date_start: '2017-06-01'
+          date_end: '2017-11-01'
+          description: |2-
+              Responsibilities include:
+
+              * Design and data modelling of a Datamart
+              * Data extraction activities through SQL
+              * Automation of Data Quality processes through Access and VBA
+        - title: Visiting
+          company: Ernst & Young
+          company_url: ''
+          company_logo: org-gc
+          location: Milano, Italy
+          date_start: '2017-06-01'
+          date_end: '2017-11-01'
+          description: |2-
+              Responsibilities include:
+
+              * Design and data modelling of a Datamart
+              * Data extraction activities through SQL
+              * Automation of Data Quality processes through Access and VBA
         - title: Risk Advisory Intern
           company: Ernst & Young
           company_url: ''
@@ -165,6 +191,19 @@ sections:
   - block: collection
     content:
       title: Publications
+      social:
+      - icon: envelope
+        icon_pack: fas
+        link: /#contact
+      - icon: graduation-cap
+        icon_pack: fas
+        link: https://scholar.google.com/citations?user=HGeGJpcAAAAJ&hl=it
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/stefaniafresca
+      - icon: linkedin
+        icon_pack: fab
+        link: www.linkedin.com/in/stefania-fresca-505447161
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
