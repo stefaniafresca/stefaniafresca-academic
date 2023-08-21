@@ -206,7 +206,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -221,7 +221,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Upcoming Talks
+      title: Upcoming Dates
       filters:
         folders:
           - event
@@ -239,7 +239,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to contact me or follow me on social media. Reach out to me with scientific opportunities and deep learning projects.
+        Feel free to contact me. Reach out to me with scientific opportunities and deep learning projects.
       # Contact (add or remove contact options as necessary)
       email: stefania.fresca@polimi.it
       phone: +39 02 2399
