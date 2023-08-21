@@ -147,10 +147,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Research Talks
+          tag: Research Talks
+        - name: Blog Posts
+          tag: Blog Posts
+        - name: Outreach
+          tag: Outreach
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -193,7 +195,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Upcoming Dates
+      title: Upcoming &shy; Dates
       filters:
         folders:
           - event
