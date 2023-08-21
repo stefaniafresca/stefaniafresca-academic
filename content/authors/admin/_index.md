@@ -19,6 +19,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/stefania-fresca-505447161
+  - icon: researchgate
+    icon_pack: ai
+    link: www.linkedin.com/in/stefania-fresca-505447161
 organizations:
   - name: Department of Mathematics, Politecnico di Milano
 education:
