@@ -44,7 +44,7 @@ sections:
 
         - title: Risk Advisory Intern
           company: Ernst & Young
-          company_url: ''
+          company_url: 'https://www.ey.com/it_it?WT.mc_id=10817933&AA.tsrc=paidsearch&gad=1&gclid=CjwKCAjwloynBhBbEiwAGY25dAu0cZBZcGoy7-vBpcdVI7cpPDfQDdv8cdl38FSYYp46K-ZcNs0hzhoCXrIQAvD_BwE'
           company_logo: EY
           location: Milano, Italy
           date_start: '2017-06-01'
