@@ -34,8 +34,8 @@ sections:
 
         - title: Visiting
           company: Isaac Newton Institute for Mathematical Sciences, University of Cambridge
-          company_url: ''
-          company_logo: org-gc
+          company_url: 'https://www.newton.ac.uk'
+          company_logo: INI
           location: Cambridge, UK
           date_start: '2023-03-01'
           date_end: '2023-04-01'
