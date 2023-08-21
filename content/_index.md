@@ -124,12 +124,12 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
+      text: |-
+        {{< gallery album="demo" >}}
     design:
       # Choose a layout view
       view: compact
       columns: '2'
-      text: |-
-        {{< gallery album="demo" >}}
   - block: portfolio
     id: projects
     content:
