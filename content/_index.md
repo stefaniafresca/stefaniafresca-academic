@@ -220,14 +220,14 @@ sections:
         Reach out to me with scientific opportunities and deep learning projects.
       # Contact (add or remove contact options as necessary)
       email: stefania.fresca@polimi.it
-      phone: +39 02 2399
+      phone: +39 02 2399 4628
       address:
         street: P.zza Leonardo Da Vinci, 32
         city: Milano
         region: MI
         postcode: '20133'
         country: Italy
-      directions: Office 14
+      directions: Building 14
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
