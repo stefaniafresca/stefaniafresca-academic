@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Stefania Fresca # Website name
+title: SF # Website name
 baseURL: 'https://stefaniafresca.netlify.app/' # Website URL
 
 ############################
