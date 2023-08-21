@@ -45,7 +45,7 @@ sections:
         - title: Risk Advisory Intern
           company: Ernst & Young
           company_url: ''
-          company_logo: Sorbonne
+          company_logo: EY
           location: Milano, Italy
           date_start: '2017-06-01'
           date_end: '2017-11-01'
@@ -58,7 +58,7 @@ sections:
         - title: Exchange Program
           company: Université Pierre et Marie Curie (Sorbonne Universités)
           company_url: 'https://www.sorbonne-universite.fr/en'
-          company_logo: org-x
+          company_logo: Sorbonne
           location: Paris, France
           date_start: '2015-09-01'
           date_end: '2016-03-01'
