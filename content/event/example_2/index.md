@@ -1,5 +1,5 @@
 ---
-title: Invited Talk @ Scientific Machine Learning Workshop
+title: Talk @ Scientific Machine Learning Workshop
 
 event: Workshop on Scientific Machine Learning
 event_url: https://www.cwi.nl/en/events/cwi-research-semester-programs/workshop-scientific-machine-learning-semester-programme/
