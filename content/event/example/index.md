@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: I have been invited to give a seminar on ... in the UQSay Seminar Series at
+summary: I have been invited to give a seminar in the UQSay Seminar Series at Universit Paris-Saclay.
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
