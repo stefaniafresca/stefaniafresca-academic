@@ -147,11 +147,11 @@ sections:
         - name: All
           tag: '*'
         - name: Research Talks
-          tag: Research Talks
+          tag: research_talks
         - name: Outreach
-          tag: Outreach
+          tag: outreach
         - name: Blog Posts
-          tag: Blog Posts
+          tag: blog_posts
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
