@@ -1,5 +1,5 @@
 ---
-title: Invited Seminar
+title: Seminar
 
 event: UQSay Seminar Series
 event_url: https://www.uqsay.org/p/welcome.html
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-#summary: An example talk using Wowchemy's Markdown slides feature.
+summary: I have been invited to give a seminar on ... in the UQSay Seminar Series at Université Paris-Saclay.
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
