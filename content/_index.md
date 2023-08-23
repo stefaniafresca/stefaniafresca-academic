@@ -24,7 +24,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Assistant Professor
-          company: Future Artificial Intelligence Research (FAIR) Project
+          company: Future Artificial Intelligence Research (FAIR) Foundation
           company_url: 'https://future-ai-research.it'
           company_logo: org-gc
           location: Milano, Italy
