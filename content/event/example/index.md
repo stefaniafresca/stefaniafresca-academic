@@ -12,13 +12,13 @@ location: Remote
 #  postcode: '94305'
 #  country: United States
 
-summary: I have been invited to give a seminar in the UQSay Seminar Series at Universit Paris-Saclay
+summary: I have been invited to give a seminar in the UQSay Seminar Series at Universit Paris-Saclay.
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-10-19T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-10-19T14:00:00Z'
+date_end: '2023-10-19T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
