@@ -1,5 +1,5 @@
 ---
-title: Seminar
+title: Talk @ UQSay Seminar Series
 
 event: UQSay Seminar Series
 event_url: https://www.uqsay.org/p/welcome.html
@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
+  - icon: zoom
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
