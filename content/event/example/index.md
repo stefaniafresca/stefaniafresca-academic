@@ -17,11 +17,9 @@ abstract: 'UQSay is a series of seminars on the broad area of Uncertainty Quanti
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-10-19'
-#T13:00:00Z'
-date_end: '2023-10-19'
-#T15:00:00Z'
-all_day: True
+date: '2023-10-19T13:00:00Z'
+date_end: '2023-10-19T15:00:00Z'
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 #publishDate: '2017-01-01T00:00:00Z'
