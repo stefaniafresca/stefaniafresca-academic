@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: Invited Seminar
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: UQSay Seminar Series
+event_url: https://www.uqsay.org/p/welcome.html
 
 location: Wowchemy HQ
 address:
