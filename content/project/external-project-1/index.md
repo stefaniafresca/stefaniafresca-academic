@@ -1,5 +1,5 @@
 ---
-title: Interview ioDONNA magazine
+title: Interview ioDONNA Magazine
 summary: Politecnico di Milano - una dottoranda studia come curare il cuore con la matematica.
 tags:
   - outreach
