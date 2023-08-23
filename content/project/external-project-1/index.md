@@ -1,5 +1,5 @@
 ---
-title: Interview on ioDONNA magazine
+title: Interview ioDONNA magazine
 summary: Politecnico di Milano - una dottoranda studia come curare il cuore con la matematica.
 tags:
   - outreach
@@ -9,6 +9,6 @@ date: "2020-05-22T00:00:00Z"
 external_link: https://www.iodonna.it/attualita/costume-e-societa/2020/05/22/politecnico-di-milano-curare-patologie-cardiache-matematicare-con-la-matematica/
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: ""
   focal_point: Smart
 ---
