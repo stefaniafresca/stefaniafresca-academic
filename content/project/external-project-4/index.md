@@ -1,6 +1,6 @@
 ---
 title: Post in Coventor MEMS+ Blog
-summary: Using Machine Learning to Develop a Real-Time Model of a MEMS Disk Resonating Gyroscope
+summary: Using Machine Learning to Develop a Real-Time Model of a MEMS Disk Resonating Gyroscope.
 tags:
   - blog_posts
 date: "2023-03-09T00:00:00Z"
