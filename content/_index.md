@@ -166,17 +166,18 @@ sections:
   #      {{< gallery album="demo" >}}
   #  design:
   #    columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured News
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  ### PRESO IN CONSIDERAZIONI PER I PREMI!!!! ###   
+  #- block: collection
+  #  id: featured
+  #  content:
+  #    title: Featured News
+  #    filters:
+  #      folders:
+  #        - publication
+  #      featured_only: true
+  #  design:
+  #    columns: '2'
+  #    view: card
   ### PRESO IN CONSIDERAZIONI PER I PREMI!!!! ###    
   #- block: tag_cloud
   #  content:
