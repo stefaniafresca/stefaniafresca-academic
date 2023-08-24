@@ -1,5 +1,5 @@
 ---
-title: Interview ioDONNA Magazine
+title: Interview ioDONNA magazine
 summary: A PhD student studies how to cure the heart with mathematics.
 tags:
   - outreach
