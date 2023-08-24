@@ -1,5 +1,5 @@
 ---
-title: Talk @ Mathematics of Deep Learning Workshop at Isaac Newton Institute
+title: Talk @ Mathematics of Deep Learning Workshop (Isaac Newton Institute, University of Cambridge)
 summary: POD-DL-ROM - a comprehensive deep learning-based approach to reduced order modeling of nonlinear time-dependent parametrized PDEs.
 tags:
   - research_talks
