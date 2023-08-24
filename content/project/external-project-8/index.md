@@ -1,5 +1,5 @@
 ---
-title: Machine Learning + X Seminars (CRUNCH Group, Brown University)
+title: Seminar @ Machine Learning + X Seminars (CRUNCH Group, Brown University)
 summary: Deep learning-based reduced order models for parametrized PDEs.
 tags:
   - research_talks
