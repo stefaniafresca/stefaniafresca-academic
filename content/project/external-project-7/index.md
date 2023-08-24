@@ -1,12 +1,12 @@
 ---
-title: Post in Coventor MEMS+ Blog
-summary: Using Machine Learning to Develop a Real-Time Model of a MEMS Disk Resonating Gyroscope
+title: Talk @ Mathematics of Deep Learning Workshop at Isaac Newton Institute
+summary: POD-DL-ROM - a comprehensive deep learning-based approach to reduced order modeling of nonlinear time-dependent parametrized PDEs.
 tags:
-  - blog_posts
-date: "2023-03-09T00:00:00Z"
+  - research_talks
+date: "2021-11-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.coventor.com/blog/using-machine-learning-to-develop-a-real-time-model-of-a-mems-disk-resonating-gyroscope/?utm_content=240849218&utm_medium=social&utm_source=linkedin&hss_channel=lcp-30455
+external_link: https://www.youtube.com/watch?v=Wz1rVAKOG0w
 
 image:
   caption: ""
