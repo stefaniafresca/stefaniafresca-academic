@@ -26,7 +26,7 @@ sections:
         - title: Assistant Professor
           company: Future Artificial Intelligence Research (FAIR) Foundation
           company_url: 'https://future-ai-research.it'
-          company_logo: org-gc
+          company_logo: FAIR
           location: Milano, Italy
           date_start: '2023-02-09'
           date_end: ''
