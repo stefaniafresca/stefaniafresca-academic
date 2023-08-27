@@ -11,7 +11,7 @@ address:
   postcode: '1098 XG'
   country: The Netherlands
 
-summary: I have been invited to give a talk in the Scientific Machine Learning Workshop, within the Scientific Machine Learning semester program, at CWI (Centrum Wiskunde & Informatica) in Amsterdam.
+summary: I have been invited to give a talk in the Scientific Machine Learning - Bridging Computational Physics and Machine Learning Workshop, within the Scientific Machine Learning semester program, at CWI (Centrum Wiskunde & Informatica) in Amsterdam.
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
