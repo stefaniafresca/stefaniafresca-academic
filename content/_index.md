@@ -216,7 +216,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contacts
       subtitle:
       text: |-
         Feel free to contact me! \
