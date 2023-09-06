@@ -1,27 +1,27 @@
 ---
-title: Talk @ Scientific Machine Learning Workshop
+title: MS @ ECCOMAS 2024
 
-event: Workshop on Scientific Machine Learning
-event_url: https://www.cwi.nl/en/events/cwi-research-semester-programs/workshop-scientific-machine-learning-semester-programme/
+event: 9th European Congress on Computational Methods in Applied Sciences and Engineering
+event_url: https://eccomas2024.org
 
-location: CWI
+location: Lisbon Congress Centre
 address:
-  street: Science Park 123
-  city: Amsterdam
-  postcode: '1098 XG'
-  country: The Netherlands
+  street:
+  city: Lisboa
+  postcode:
+  country: Portugal
 
-summary: I have been invited to give a talk in the Scientific Machine Learning - Bridging Computational Physics and Machine Learning Workshop, within the Scientific Machine Learning semester program, at CWI (Centrum Wiskunde & Informatica) in Amsterdam.
+summary: I am organizing a mini-symposium, together with Dr. Nicolò Botteghi, on "Recent Advances in Deep Reinforcement Learning of Complex Dynamical Systems" at the ECCOMAS Congress 2024.
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-12-06T09:00:00Z'
-date_end: '2023-12-08T16:00:00Z'
+date: '2024-06-03T09:00:00Z'
+date_end: '2024-07-08T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-08-23T00:00:00Z'
+publishDate: '2023-09-06T00:00:00Z'
 
 authors: []
 tags: []
@@ -34,7 +34,7 @@ image:
   focal_point: Right
 
 links:
-  - name: Follow
+  - name: Info
     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
