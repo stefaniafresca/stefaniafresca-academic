@@ -1,14 +1,13 @@
 ---
-title: "A Comprehensive Deep Learning-Based Approach to Reduced Order Modeling of Nonlinear Time-Dependent Parametrized PDEs"
+title: "POD-DL-ROM: Enhancing deep learning-based reduced order models for nonlinear parametrized PDEs by proper orthogonal decomposition"
 authors:
 - admin
 - Andrea Manzoni
-- Luca Dede'
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2021-04-21T00:00:00Z"
-doi: "https://doi.org/10.1007/s10915-021-01462-7"
+date: "2022-01-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.cma.2021.114181"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-06T00:00:00Z"
@@ -20,10 +19,10 @@ publishDate: "2023-09-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Scientific Computing, 87(2):1-36"
+publication: "Computer Methods in Applied Mechanics and Engineering, 388, 114181"
 publication_short: ""
 
-abstract: Conventional reduced order modeling techniques such as the reduced basis (RB) method (relying, e.g., on proper orthogonal decomposition (POD)) may incur in severe limitations when dealing with nonlinear time-dependent parametrized PDEs, as these are strongly anchored to the assumption of modal linear superimposition they are based on. For problems featuring coherent structures that propagate over time such as transport, wave, or convection- dominated phenomena, the RB method may yield inefficient reduced order models (ROMs) when very high levels of accuracy are required. To overcome this limitation, in this work, we propose a new nonlinear approach to set ROMs by exploiting deep learning (DL) algorithms. In the resulting nonlinear ROM, which we refer to as DL-ROM, both the nonlinear trial man- ifold (corresponding to the set of basis functions in a linear ROM) as well as the nonlinear reduced dynamics (corresponding to the projection stage in a linear ROM) are learned in a non-intrusive way by relying on DL algorithms; the latter are trained on a set of full order model (FOM) solutions obtained for different parameter values. We show how to construct a DL-ROM for both linear and nonlinear time-dependent parametrized PDEs. Moreover, we assess its accuracy and efficiency on different parametrized PDE problems. Numerical results indicate that DL-ROMs whose dimension is equal to the intrinsic dimensionality of the PDE solutions manifold are able to efficiently approximate the solution of parametrized PDEs, especially in cases for which a huge number of POD modes would have been necessary to achieve the same degree of accuracy.
+abstract: Deep learning-based reduced order models (DL-ROMs) have been recently proposed to overcome common limitations shared by conventional reduced order models (ROMs) – built, e.g., through proper orthogonal decomposition (POD) – when applied to nonlinear time-dependent parametrized partial differential equations (PDEs). These might be related to (i) the need to deal with projections onto high dimensional linear approximating trial manifolds, (ii) expensive hyper-reduction strategies, or (iii) the intrinsic difficulty to handle physical complexity with a linear superimposition of modes. All these aspects are avoided when employing DL-ROMs, which learn in a non-intrusive way both the nonlinear trial manifold and the reduced dynamics, by relying on deep (e.g., feedforward, convolutional, autoencoder) neural networks. Although extremely efficient at testing time, when evaluating the PDE solution for any new testing-parameter instance, DL-ROMs require an expensive training stage, because of the extremely large number of network parameters to be estimated. In this paper we propose a possible way to avoid an expensive training stage of DL-ROMs, by (i) performing a prior dimensionality reduction through POD, and (ii) relying on a multi-fidelity pretraining stage, where different physical models can be efficiently combined. The proposed POD-DL-ROM is tested on several (both scalar and vector, linear and nonlinear) time-dependent parametrized PDEs (such as, e.g., linear advection–diffusion–reaction, nonlinear diffusion–reaction, nonlinear elastodynamics, and Navier–Stokes equations) to show the generality of this approach and its remarkable computational savings.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,8 +33,8 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/content/pdf/10.1007/s10915-021-01462-7.pdf
-url_code: 'https://github.com/stefaniafresca/DL-ROM-Meth'
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0045782521005120
+url_code: 'https://github.com/stefaniafresca/POD-DL-ROM'
 url_dataset: ''
 url_poster: ''
 url_project: ''
