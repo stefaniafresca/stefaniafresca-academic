@@ -1,28 +1,27 @@
 ---
-title: Talk @ UQSay Seminar Series
+title: MS @ ECCOMAS 2024
 
-event: UQSay Seminar Series
-event_url: https://www.uqsay.org/p/welcome.html
+event: 9th European Congress on Computational Methods in Applied Sciences and Engineering
+event_url: https://eccomas2024.org
 
-location: Remote
-#address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
+location: Lisbon Congress Centre
+address:
+  street:
+  city: Lisboa
+  postcode:
+  country: Portugal
 
-summary: I have been invited to give a seminar in the UQSay Seminar Series at Université Paris-Saclay.
+summary: I am organizing a mini-symposium, together with Dr. Nicola Rares Franco and Dr. Federico Pichi, on "Deep Learning and Reduced Order Modeling for Differential Equations" at the ECCOMAS Congress 2024.
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-10-19T14:00:00Z'
-date_end: '2023-10-19T15:00:00Z'
+date: '2024-06-03T09:00:00Z'
+date_end: '2024-07-08T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-08-23T00:00:00Z'
+publishDate: '2023-09-06T00:00:00Z'
 
 authors: []
 tags: []
@@ -30,7 +29,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image: 
+image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
