@@ -35,7 +35,7 @@ image:
 
 links:
   - name: Info
-    url: https://twitter.com/georgecushen
+    url: 
 url_code: ''
 url_pdf: ''
 url_slides: ''
