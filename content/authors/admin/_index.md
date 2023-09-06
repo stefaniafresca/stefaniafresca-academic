@@ -1,6 +1,6 @@
 ---
 avatar_filename: avatar.jpg
-bio: My research interests scientific machine learning, reduced order modeling
+bio: My research interests are scientific machine learning, reduced order modeling
   and AI.
 interests:
   - Scientific machine learning
