@@ -1,5 +1,5 @@
 ---
-title: "A Comprehensive Deep Learning-Based Approach to Reduced Order Modeling of Nonlinear Time-Dependent Parametrized PDEs"
+title: "A comprehensive deep learning-based approach to reduced order modeling of nonlinear time-dependent parametrized PDEs"
 authors:
 - admin
 - Andrea Manzoni
