@@ -20,7 +20,7 @@ publishDate: "2023-09-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Mathematics in Engineering, 5(6): 1-36"
+publication: "Mathematics in Engineering, 5(6):1-36"
 publication_short: ""
 
 abstract: Deep learning-based reduced order models (DL-ROMs) have been recently proposed to overcome common limitations shared by conventional ROMs–built, e.g., through proper orthogonal decomposition (POD)–when applied to nonlinear time-dependent parametrized PDEs. In particular, POD-DL-ROMs can achieve an extremely good efficiency in the training stage and faster than real-time performances at testing, thanks to a prior dimensionality reduction through POD and a DL-based prediction framework. Nonetheless, they share with conventional ROMs unsatisfactory performances regarding time extrapolation tasks. This work aims at taking a further step towards the use of DL algorithms for the efficient approximation of parametrized PDEs by introducing the 
