@@ -1,7 +1,6 @@
 ---
 title: "Reduced order modeling of parametrized systems through autoencoders and SINDy approach: continuation of periodic solutions"
 authors:
-- Paolo Conti
 - Giorgio Gobat
 - admin
 - Andrea Manzoni
