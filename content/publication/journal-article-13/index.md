@@ -9,10 +9,10 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2023-07-07T00:00:00Z"
-doi: "https://doi.org/10.1016/j.cma.2023.116072"
+doi: "https://doi.org/10.3390/act12070278"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-09-06T00:00:00Z"
+publishDate: "2023-09-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0045782523001962?via%3Dihub
+url_pdf: https://www.mdpi.com/2076-0825/12/7/278
 url_code: ''
 url_dataset: ''
 url_poster: ''
