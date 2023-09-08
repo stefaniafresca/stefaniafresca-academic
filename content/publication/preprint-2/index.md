@@ -5,7 +5,7 @@ authors:
 - admin
 - Nicola Rares Franco
 - Andrea Manzoni
-date: "2023-08-03T00:00:00Z"
+date: "2023-04-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,7 @@ abstract: Mesh-based simulations play a key role when modeling complex physical 
 #- Source Themes
 featured: false
 
-url_pdf: https://arxiv.org/pdf/2308.01602.pdf
+url_pdf: https://arxiv.org/pdf/2305.04680.pdf
 url_code:
 url_dataset: ''
 url_poster: ''
