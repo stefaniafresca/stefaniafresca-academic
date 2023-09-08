@@ -1,11 +1,11 @@
 ---
-title: 'Neural Latent Dynamics Models'
+title: 'Long-time prediction of nonlinear parametrized dynamical systems by deep learning-based ROMs'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Nicola Farenga
+  - Federico Fatone
   - admin
   - Andrea Manzoni
 
@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-10-01T00:00:00Z'
+date: '2021-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,8 +30,7 @@ publication_types: ['1']
 publication: 35th Conference on Neural Information Processing Systems (NeurIPS)
 #publication_short: In *ICW*
 
-abstract: 
-We introduce Neural Latent Dynamics Models (NLDMs), a neural ordinary differential equations (ODEs)-based architecture to perform end-to-end nonlinear latent dynamics discovery, without the need to include any inductive bias related to either the underlying physical model or the latent coordinates space. The effectiveness of this strategy is experimentally tested in the framework of reduced order modeling, considering a set of problems involving high-dimensional data generated from nonlinear time-dependent parameterized partial differential equations (PDEs) simulations, where we aim at performing extrapolation in time, to forecast the PDE solution out of the time interval and/or the parameters range where training data were acquired. Results highlight NLDMs’ capabilities to perform low-dimensional latent dynamics learning in three different scenarios.
+abstract: Deep learning-based reduced order models (DL-ROMs) have been recently pro- posed to overcome common limitations shared by conventional ROMs – built, e.g., through proper orthogonal decomposition (POD) – when applied to nonlinear time- dependent parametrized PDEs. Although extremely efficient at testing time, when evaluating the PDE solution for any new testing-parameter instance, DL-ROMs require an expensive training stage. To avoid this latter, a prior dimensionality reduction through POD, and a multi-fidelity pretraining stage, are introduced, yielding the POD-DL-ROM framework, which allows to solve time-dependent PDEs even faster than in real-time. Equipped with LSTM networks, the resulting POD-LSTM-ROMs better grasp the time evolution of the PDE system, ultimately allowing long-term prediction of complex systems’ evolution, with respect to the training window, for unseen input parameter values.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -46,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://openreview.net/pdf?id=Yk_I37Ca8Q'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
