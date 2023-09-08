@@ -7,8 +7,8 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2022-06-07T00:00:00Z"
-doi: "https://doi.org/10.1002/nme.7054"
+date: "2023-09-05T00:00:00Z"
+doi: "https://doi.org/10.3934/mine.2023096"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-06T00:00:00Z"
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/nme.7054
+url_pdf: https://www.aimspress.com/article/doi/10.3934/mine.2023096
 url_code: ''
 url_dataset: ''
 url_poster: ''
