@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning-based surrogate models for parametrized PDEs: handling geometric variability through graph neural networks"
+title: "Error estimates for POD-DL-ROMs: a deep learning framework for reduced order modeling of nonlinear parametrized PDEs enhanced by proper orthogonal decomposition"
 authors:
 - Simone Brivio
 - admin
