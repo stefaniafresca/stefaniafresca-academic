@@ -1,13 +1,12 @@
 ---
-title: 'Long-time prediction of nonlinear parametrized dynamical systems by deep learning-based ROMs'
+title: 'An example conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Federico Fatone
   - admin
-  - Andrea Manzoni
+  - Robert Ford
 
 # Author notes (optional)
 #author_notes:
@@ -27,7 +26,7 @@ publishDate: '2023-09-08T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 35th Conference on Neural Information Processing Systems (NeurIPS), The Symbiosis of Deep Learning and Differential Equations
+publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -73,5 +72,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: []]
+slides: []
 ---
