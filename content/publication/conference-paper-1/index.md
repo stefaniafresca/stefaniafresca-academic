@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2021-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,7 @@ publication_types: ['1']
 publication: 35th Conference on Neural Information Processing Systems (NeurIPS)
 #publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Deep learning-based reduced order models (DL-ROMs) have been recently pro- posed to overcome common limitations shared by conventional ROMs – built, e.g., through proper orthogonal decomposition (POD) – when applied to nonlinear time- dependent parametrized PDEs. Although extremely efficient at testing time, when evaluating the PDE solution for any new testing-parameter instance, DL-ROMs require an expensive training stage. To avoid this latter, a prior dimensionality reduction through POD, and a multi-fidelity pretraining stage, are introduced, yielding the POD-DL-ROM framework, which allows to solve time-dependent PDEs even faster than in real-time. Equipped with LSTM networks, the resulting POD-LSTM-ROMs better grasp the time evolution of the PDE system, ultimately allowing long-term prediction of complex systems’ evolution, with respect to the training window, for unseen input parameter values.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
