@@ -8,7 +8,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2022-06-07T00:00:00Z"
+date: "2023-06-07T00:00:00Z"
 doi: "https://doi.org/10.1016/j.neunet.2023.01.029"
 
 # Schedule page publish date (NOT publication's date).

@@ -1,9 +1,9 @@
 ---
-title: "Reduced order modeling of parametrized systems through autoencoders and SINDy approach: continuation of periodic solutions"
+title: "Modeling the periodic response of Micro-Electromechanical Systems through deep learning-based approaches"
 authors:
 - Giorgio Gobat
+- Alessia Baronchelli
 - admin
-- Andrea Manzoni
 - Attilio Frangi
 #author_notes:
 #- "Equal contribution"
