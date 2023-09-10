@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.compbiomed.net/2021/cmbe-proceedings.htm'
 url_code: ''
 url_dataset: ''
 url_poster: ''
