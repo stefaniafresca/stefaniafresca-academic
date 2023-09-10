@@ -15,7 +15,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2021-10-01T00:00:00Z'
+date: '2022-06-27T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ publication_types: ['1']
 publication: 7th International Conference on Computational and Mathematical Biomedical Engineering
 #publication_short: In *ICW*
 
-abstract: Deep learning-based reduced order models (DL-ROMs) have been recently pro- posed to overcome common limitations shared by conventional ROMs – built, e.g., through proper orthogonal decomposition (POD) – when applied to nonlinear time- dependent parametrized PDEs. Although extremely efficient at testing time, when evaluating the PDE solution for any new testing-parameter instance, DL-ROMs require an expensive training stage. To avoid this latter, a prior dimensionality reduction through POD, and a multi-fidelity pretraining stage, are introduced, yielding the POD-DL-ROM framework, which allows to solve time-dependent PDEs even faster than in real-time. Equipped with LSTM networks, the resulting POD-LSTM-ROMs better grasp the time evolution of the PDE system, ultimately allowing long-term prediction of complex systems’ evolution, with respect to the training window, for unseen input parameter values.
+abstract: The numerical simulation of multiple scenarios for cardiac electrophysiology (EP) problems easily becomes computationally prohibitive if relying on usual high-fidelity, full order models. To perform the numerical approximation of cardiac EP equations in multi-query contexts or solving them in real-time, we introduce a new generation of non-intrusive, nonlinear reduced order models, based on deep learning (DL) algorithms, such as convolutional, feedforward, and autoencoder neural networks. Numerical results show that the resulting DL-ROM technique allows to accurately capture in real-time complex fronts propagation processes on realistic geometries, both in physiological and pathological scenarios.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
