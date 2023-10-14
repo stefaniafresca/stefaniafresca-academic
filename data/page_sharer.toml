@@ -2,14 +2,6 @@
 # Documentation: https://wowchemy.com/docs/hugo-tutorials/page-sharer/
 
 [[buttons]]
-  id = "email"
-  url = "mailto:?subject={title}&body={url}"
-  title = "Email"
-  icon_pack = "fas"
-  icon = "envelope"
-  enable = true
-
-[[buttons]]
   id = "reddit"
   url = "https://reddit.com/submit?url={url}&title={title}"
   title = "Reddit"
@@ -40,19 +32,3 @@
   icon_pack = "fab"
   icon = "tumblr"
   enable = false
-
-[[buttons]]
-  id = "researchgate"
-  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
-  title = "ResearchGate"
-  icon_pack = "ai"
-  icon = "researchgate"
-  enable = true
-
-  [[buttons]]
-  id = "orcid"
-  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
-  title = "ORCID"
-  icon_pack = "ai"
-  icon = "orcid"
-  enable = true
