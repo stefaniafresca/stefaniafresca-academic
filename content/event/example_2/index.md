@@ -35,7 +35,7 @@ image:
 
 links:
   - name: Info
-    url: 
+    url: https://www.cwi.nl/en/events/cwi-research-semester-programs/workshop-scientific-machine-learning-semester-programme/
 url_code: ''
 url_pdf: ''
 url_slides: ''

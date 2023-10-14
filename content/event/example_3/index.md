@@ -35,7 +35,7 @@ image:
 
 links:
   - name: Info
-    url: 
+    url: https://eccomas2024.org
 url_code: ''
 url_pdf: ''
 url_slides: ''
