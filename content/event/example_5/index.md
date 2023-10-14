@@ -11,7 +11,7 @@ address:
   postcode:
   country: Italy
 
-summary: I am organizing a mini-symposium, together with Dr. Nicola Rares Franco, Prof. Mengwu Guo and Prof. Andrea Manzoni, on "Deep Learning and Reduced Order Modeling for Differential Equations" at the SIAM UQ24 Conference.
+summary: I am organizing a mini-symposium, together with Dr. Nicola Rares Franco, Prof. Mengwu Guo and Prof. Andrea Manzoni, on "Reduced Order Modeling, Learning, UQ, and their Interaction" at the SIAM UQ24 Conference.
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
