@@ -7,7 +7,7 @@ event_url: https://eccomas2024.org
 location: Lisbon Congress Centre
 address:
   street:
-  city: Lisboa
+  city: Lisbon
   postcode:
   country: Portugal
 
@@ -35,7 +35,7 @@ image:
 
 links:
   - name: Info
-    url: 
+    url: https://eccomas2024.org
 url_code: ''
 url_pdf: ''
 url_slides: ''
