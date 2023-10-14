@@ -35,7 +35,7 @@ image:
 
 links:
   - name: Info
-    url: 
+    url: https://www.siam.org/conferences/cm/conference/uq24
 url_code: ''
 url_pdf: ''
 url_slides: ''

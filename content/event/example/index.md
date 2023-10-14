@@ -36,7 +36,7 @@ image:
 
 links:
   - name: Info
-    url: 
+    url: https://www.uqsay.org/p/welcome.html
 url_code: ''
 url_pdf: ''
 url_slides: ''
