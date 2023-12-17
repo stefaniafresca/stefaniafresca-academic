@@ -5,7 +5,7 @@ authors:
 - admin
 - Filippo Tombari
 - Andrea Manzoni
-date: "2023-08-03T00:00:00Z"
+date: "2023-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
