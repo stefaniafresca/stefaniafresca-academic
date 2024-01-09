@@ -6,7 +6,7 @@ authors:
 - Filippo Tombari
 - Andrea Manzoni
 date: "2023-12-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1063/5.0170101"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-08T00:00:00Z"
