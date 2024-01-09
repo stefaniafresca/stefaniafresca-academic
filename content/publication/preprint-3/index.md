@@ -5,8 +5,8 @@ authors:
 - admin
 - Andrea Manzoni
 - Alfio Quarteroni
-date: "2022-02-08T00:00:00Z"
-doi: ""
+date: "2023-11-03T00:00:00Z"
+doi: "https://doi.org/10.1002/cnm.3783"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-08T00:00:00Z"
@@ -15,10 +15,10 @@ publishDate: "2023-09-08T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv preprint arXiv:2202.03904"
+publication: "International Journal for Numerical Methods in Biomedical Engineering, e3783"
 publication_short: ""
 
 abstract: Reducing the computational time required by high-fidelity, full order models (FOMs) for the solution of problems in cardiac mechanics is crucial to allow the translation of patient-specific simulations into clinical practice. While FOMs, such as those based on the finite element method, provide valuable information of the cardiac mechanical function, up to hundreds of thousands degrees of freedom may be needed to obtain accurate numerical results. As a matter of fact, simulating even just a few heartbeats can require hours to days of CPU time even on powerful supercomputers. In addition, cardiac models depend on a set of input parameters that we could let vary in order to explore multiple virtual scenarios. To compute reliable solutions at a greatly reduced computational cost, we rely on a reduced basis method empowered with a new deep-learning based operator approximation, which we refer to as Deep-HyROMnet technique. Our strategy combines a projection-based POD-Galerkin method with deep neural networks for the approximation of (reduced) nonlinear operators, overcoming the typical computational bottleneck associated with standard hyper-reduction techniques. This method is shown to provide reliable approximations to cardiac mechanics problems outperforming classical projection-based ROMs in terms of computational speed-up of orders of magnitude, and enhancing forward uncertainty quantification analysis otherwise unaffordable.
@@ -30,7 +30,7 @@ abstract: Reducing the computational time required by high-fidelity, full order 
 #- Source Themes
 featured: false
 
-url_pdf: https://arxiv.org/pdf/2202.03904.pdf
+url_pdf: https://doi.org/10.1002/cnm.3783
 url_code:
 url_dataset: ''
 url_poster: ''
