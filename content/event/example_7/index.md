@@ -11,7 +11,7 @@ address:
   postcode:
   country: Portugal
 
-summary: I have been invited to give a talk in the MS "Exploring New Avenues for the Interaction of Numerical Methods for PDEs and Deep Learning" at the SIAM UQ24 Conference at the ECCOMAS Congress 2024.
+summary: I have been invited to give a talk in the MS "Exploring New Avenues for the Interaction of Numerical Methods for PDEs and Deep Learning" at the ECCOMAS Congress 2024.
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
