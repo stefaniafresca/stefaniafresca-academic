@@ -5,7 +5,7 @@ bio: My research interests are scientific machine learning, reduced order modeli
 interests:
   - Scientific machine learning
   - Reduced order modeling
-  - AI
+  - Numerical analasys
 social:
   - icon: envelope
     icon_pack: fas
