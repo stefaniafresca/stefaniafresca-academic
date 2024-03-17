@@ -15,10 +15,10 @@ publishDate: "2023-09-08T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv preprint arXiv:2305.04680"
+publication: "Advances in Computational Mathematics, Accepted, 2024"
 publication_short: ""
 
 abstract: POD-DL-ROMs have been recently proposed as an extremely versatile strategy to build accurate and reliable reduced order models (ROMs) for nonlinear parametrized partial differential equations, combining (i) a preliminary dimensionality reduction obtained through proper orthogonal decomposition (POD) for the sake of efficiency, (ii) an autoencoder architecture that further reduces the dimensionality of the POD space to a handful of latent coordinates, and (iii) a dense neural network to learn the map that describes the dynamics of the latent coordinates as a function of the input parameters and the time variable. Within this work, we aim at justifying the outstanding approximation capabilities of POD-DL-ROMs by means of a thorough error analysis, showing how the sampling required to generate training data, the dimension of the POD space, and the complexity of the underlying neural networks, impact on the solution accuracy. This decomposition, combined with the constructive nature of the proofs, allows us to formulate practical criteria to control the relative error in the approximation of the solution field of interest, and derive general error estimates. Furthermore, we show that, from a theoretical point of view, POD-DL-ROMs outperform several deep learning-based techniques in terms of model complexity. Finally, we validate our findings by means of suitable numerical experiments, ranging from parameter-dependent operators analytically defined to several parametrized PDEs.
