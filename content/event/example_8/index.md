@@ -6,7 +6,6 @@ event_url: https://www.nhr4ces.de/2024/01/26/nhr-conference-2024/
 
 location: National High Performance Computing Center for Computational Engineering Science
 address:
-  street:
   city: Darmstadt
   country: Germany
 
