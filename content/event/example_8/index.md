@@ -8,7 +8,6 @@ location: National High Performance Computing Center for Computational Engineeri
 address:
   street:
   city: Darmstadt
-  postcode:
   country: Germany
 
 summary: I have been invited to give a keynote talk at the 2nd NHR (National High Performance Computing) Conference.
@@ -17,7 +16,7 @@ summary: I have been invited to give a keynote talk at the 2nd NHR (National Hig
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-09-09T09:00:00Z'
-date_end: '2024-07-08T16:00:00Z'
+date_end: '2024-09-12T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
