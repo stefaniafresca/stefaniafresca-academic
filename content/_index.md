@@ -27,6 +27,8 @@ sections:
         - title: Visiting Researcher
           company: Department of Computer Science, University of Cambridge
           date_start: '2023-09-23'
+          date_end: '2023-12-23'
+          description: 'collaborating with Pietro Liò'
 
         - title: Assistant Professor
           company: Future Artificial Intelligence Research (FAIR) Foundation
