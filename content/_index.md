@@ -25,8 +25,8 @@ sections:
 
       items:
         - title: Visiting Researcher
-        company: UK
-        date_start: '2023-09-23'
+          company: Department of Computer Science, University of Cambridge
+          date_start: '2023-09-23'
 
       items:
         - title: Assistant Professor
