@@ -1,5 +1,5 @@
 ---
-title: Lecture
+title: Lecture @ Summer School
 
 event: Summer School in Reduced-order and Data-driven models in Biomechanics
 event_url: https://rombiomechdd25.cimne.com
