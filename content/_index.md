@@ -26,6 +26,7 @@ sections:
       items:
         - title: Visiting Researcher
           company: Department of Computer Science, University of Cambridge
+          location: Cambridge, UK
           date_start: '2023-09-23'
           date_end: '2023-12-23'
           description: 'collaborating with Pietro Liò'
