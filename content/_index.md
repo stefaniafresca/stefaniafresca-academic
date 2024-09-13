@@ -24,7 +24,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Visiting Researcher 
-          company: Department of Computer Science, University of Cambridge
+          company: Department of Computer Science - University of Cambridge
           company_url: 
           company_logo: FAIR
           location: Cambridge, U.K.
