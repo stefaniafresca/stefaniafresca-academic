@@ -24,6 +24,11 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
       items:
+        - title: Visiting Researcher
+        company: UK
+        date_start: '2023-09-23'
+
+      items:
         - title: Assistant Professor
           company: Future Artificial Intelligence Research (FAIR) Foundation
           company_url: 'https://future-ai-research.it'
