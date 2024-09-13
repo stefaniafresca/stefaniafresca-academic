@@ -4,18 +4,18 @@ title: Talk @ NHR Conference
 event: 2nd NHR (National High Performance Computing) Conference
 event_url: https://www.nhr4ces.de/2024/01/26/nhr-conference-2024/
 
-location: National High Performance Computing Center for Computational Engineering Science
+location: Universitat Politécnica de Catalunya
 address:
   city: Darmstadt
-  country: Germany
+  country: Spain
 
-summary: I have been invited to give a keynote talk at the 2nd NHR (National High Performance Computing) Conference.
+summary: I have been invited to give a lecture at the Data Driven & Reduced Order Models in Biomechanics Summer School.
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-09-09T09:00:00Z'
-date_end: '2024-09-12T16:00:00Z'
+date: '2025-04-07T09:00:00Z'
+date_end: '2025-04-11T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
