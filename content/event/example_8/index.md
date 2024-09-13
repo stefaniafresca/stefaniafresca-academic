@@ -1,10 +1,10 @@
 ---
-title: Talk @ NHR Conference
+title: Lecture @ NHR Conference
 
-event: 2nd NHR (National High Performance Computing) Conference
+event: Summer School in Reduced-order and Data-driven models in Biomechanics
 event_url: https://www.nhr4ces.de/2024/01/26/nhr-conference-2024/
 
-location: Universitat Politécnica de Catalunya
+location: Universitat Politècnica de Catalunya
 address:
   city: Darmstadt
   country: Spain
