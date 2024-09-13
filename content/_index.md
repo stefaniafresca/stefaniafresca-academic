@@ -28,7 +28,6 @@ sections:
           company: Department of Computer Science, University of Cambridge
           date_start: '2023-09-23'
 
-      items:
         - title: Assistant Professor
           company: Future Artificial Intelligence Research (FAIR) Foundation
           company_url: 'https://future-ai-research.it'
