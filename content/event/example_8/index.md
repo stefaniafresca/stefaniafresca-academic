@@ -33,7 +33,7 @@ image:
 
 links:
   - name: Info
-    url: https://www.nhr4ces.de/2024/01/26/nhr-conference-2024/
+    url: https://rombiomechdd25.cimne.com/
 url_code: ''
 url_pdf: ''
 url_slides: ''
