@@ -1,12 +1,12 @@
 ---
-title: Lecture @ NHR Conference
+title: Lecture
 
 event: Summer School in Reduced-order and Data-driven models in Biomechanics
-event_url: https://www.nhr4ces.de/2024/01/26/nhr-conference-2024/
+event_url: https://rombiomechdd25.cimne.com
 
-location: Universitat Politècnica de Catalunya
+location: Auditori de Caputxins
 address:
-  city: Darmstadt
+  city: Figueres
   country: Spain
 
 summary: I have been invited to give a lecture at the Data Driven & Reduced Order Models in Biomechanics Summer School.
