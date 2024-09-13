@@ -22,16 +22,6 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-    
-      items:
-        - title: Visiting Researcher
-          company: Computer Science Department, University of Cambridge
-          company_url: ''
-          company_logo: FAIR
-          location: Cambridge, UK
-          date_start: '2023-09-23'
-          date_end: ''
-          description: ''
 
       items:
         - title: Assistant Professor
