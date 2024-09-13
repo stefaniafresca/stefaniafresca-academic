@@ -1,10 +1,11 @@
 ---
 title: "PTPI-DL-ROMs: pre-trained physics-informed deep learning-based reduced order models for nonlinear parametrized PDEs"
 authors:
-- Simone Brivio
+- Nicola Farenga
 - admin
+- Simone Brivio
 - Andrea Manzoni
-date: "2024-05-14T00:00:00Z"
+date: "2024-09-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
