@@ -29,8 +29,8 @@ sections:
           company_logo: university-of-cambridge
           location: Cambridge, UK
           date_start: '2023-09-23'
-          date_end: '2023-12-23'
-          description: 'collaborating with Prof. Pietro Liò'
+          date_end: '2024-03-31'
+          description: 'hosted by Prof. Pietro Liò and Prof. Carola Schönlieb'
 
         - title: Assistant Professor
           company: Future Artificial Intelligence Research (FAIR) Foundation
