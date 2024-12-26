@@ -4,7 +4,7 @@ authors:
 - Simone Brivio
 - admin
 - Andrea Manzoni
-date: "2024-09-13T00:00:00Z"
+date: "2024-11-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: "arXiv:2411.05486"
 publication_short: ""
 
-abstract: In this work, we present the novel mathematical framework of latent dynamics models (LDMs) for reduced order modeling of parameterized nonlinear time-dependent PDEs. Our framework casts this latter task as a nonlinear dimensionality reduction problem, while constraining the latent state to evolve accordingly to an unknown dynamical system. A time-continuous setting is employed to derive error and stability estimates for the LDM approximation of the full order model (FOM) solution. We analyze the impact of using an explicit Runge-Kutta scheme in the time-discrete setting, resulting in the $\delta$LDM formulation, and further explore the learnable setting, $\delta$LDM$_\theta$, where deep neural networks approximate the discrete LDM components, while providing a bounded approximation error with respect to the FOM. 
+abstract: Deep Learning-based Reduced Order Models (DL-ROMs) provide nowadays a well-established class of accurate surrogate models for complex physical systems described by parametrized PDEs, by nonlinearly compressing the solution manifold into a handful of latent coordinates. Until now, de- sign and application of DL-ROMs mainly focused on physically parameterized problems. Within this work, we provide a novel extension of these architectures to problems featuring geometrical variability and parametrized domains, namely, we propose Continuous Geometry-Aware DL-ROMs (CGA-DL-ROMs). In particular, the space-continuous nature of the proposed architecture matches the need to deal with multi-resolution datasets, which are quite common in the case of geometrically parametrized problems. Moreover, CGA-DL-ROMs are endowed with a strong inductive bias that makes them aware of geometrical parametrizations, thus enhancing both the compression capability and the overall performance of the architecture. Within this work, we justify our findings through a thorough theoretical analysis, and we practically validate our claims by means of a series of numeri- cal tests encompassing physically-and-geometrically parametrized PDEs, ranging from the unsteady Navier-Stokes equations for fluid dynamics to advection-diffusion-reaction equations for mathematical biology.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,7 +29,7 @@ abstract: In this work, we present the novel mathematical framework of latent dy
 #- Source Themes
 featured: false
 
-url_pdf: https://arxiv.org/pdf/2408.15183
+url_pdf: https://arxiv.org/pdf/2411.05486
 url_code:
 url_dataset: ''
 url_poster: ''
