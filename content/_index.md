@@ -29,7 +29,7 @@ sections:
           company_logo: university-of-cambridge
           location: Cambridge, UK
           date_start: '2023-09-23'
-          date_end: '2024-03-31'
+          date_end: ''
           description: 'hosted by Prof. Pietro Liò and Prof. Carola Schönlieb'
 
         - title: Assistant Professor
