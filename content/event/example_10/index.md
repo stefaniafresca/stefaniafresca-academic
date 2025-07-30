@@ -1,21 +1,21 @@
 ---
-title: Lecture @ Academy
+title: Invited Speaker @ Workshop
 
-event: "TorchPhysics: Deep Learning for Partial Differential Equations - KoMSO Academy 2025"
-event_url: https://www.uni-bremen.de/techmath/veranstaltungen/2025-komso-academy
+event: Reduced Order and Surrogate Modeling for Digital Twins Workshop
+event_url: https://www.imsi.institute/activities/digital-twins/reduced-order-and-surrogate-modeling-for-digital-twins/
 
-location:
+location: Institute for Mathematical and Statistical Innovation (IMSI), University of Chicago
 address:
-  city: Renningen
-  country: Germany
+  city: Chicago
+  country: USA
 
-summary: "I have been invited to give a lecture at TorchPhysics: Deep Learning for Partial Differential Equations - KoMSO Academy 2025 - organized by the Robert Bosch GmbH (Stuttgart), the Center for Industrial Mathematics (ZeTeM, University of Bremen) and the Committee for Mathematical Modeling, Simulation, and Optimization (KoMSO)."
+summary: I have been invited to give a talk during the Reduced Order and Surrogate Modeling for Digital Twins Workshop, part of the Digital Twins long program, at Institute for Mathematical and Statistical Innovation (IMSI), Chicago.
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-11-20T09:00:00Z'
-date_end: '2025-11-21T16:00:00Z'
+date: '2025-11-10T09:00:00Z'
+date_end: '2025-11-14T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -33,7 +33,7 @@ image:
 
 links:
   - name: Info
-    url: https://www.uni-bremen.de/techmath/veranstaltungen/2025-komso-academy
+    url: https://www.imsi.institute/activities/digital-twins/reduced-order-and-surrogate-modeling-for-digital-twins/
 url_code: ''
 url_pdf: ''
 url_slides: ''
