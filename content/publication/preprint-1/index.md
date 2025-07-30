@@ -1,10 +1,12 @@
 ---
-title: "Handling geometrical variability in nonlinear reduced order modeling through Continuous Geometry-Aware DL-ROMs"
+title: "Multi-level Monte Carlo training of neural operators"
 authors:
-- Simone Brivio
+- James Rowbottom
 - admin
-- Andrea Manzoni
-date: "2024-11-08T00:00:00Z"
+- Pietro Lio
+- Carola-Bibiane Schönlieb
+- Nicolas Boullé
+date: "2025-05-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,11 +19,10 @@ publishDate: "2024-12-26T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv:2411.05486"
+publication: "arXiv:2505.12940,"
 publication_short: ""
 
-abstract: Deep Learning-based Reduced Order Models (DL-ROMs) provide nowadays a well-established class of accurate surrogate models for complex physical systems described by parametrized PDEs, by nonlinearly compressing the solution manifold into a handful of latent coordinates. Until now, de- sign and application of DL-ROMs mainly focused on physically parameterized problems. Within this work, we provide a novel extension of these architectures to problems featuring geometrical variability and parametrized domains, namely, we propose Continuous Geometry-Aware DL-ROMs (CGA-DL-ROMs). In particular, the space-continuous nature of the proposed architecture matches the need to deal with multi-resolution datasets, which are quite common in the case of geometrically parametrized problems. Moreover, CGA-DL-ROMs are endowed with a strong inductive bias that makes them aware of geometrical parametrizations, thus enhancing both the compression capability and the overall performance of the architecture. Within this work, we justify our findings through a thorough theoretical analysis, and we practically validate our claims by means of a series of numeri- cal tests encompassing physically-and-geometrically parametrized PDEs, ranging from the unsteady Navier-Stokes equations for fluid dynamics to advection-diffusion-reaction equations for mathematical biology.
-
+abstract: Operator learning is a rapidly growing field that aims to approximate nonlinear operators related to partial differential equations (PDEs) using neural operators. These rely on discretization of input and output functions and are, usually, expensive to train for large-scale problems at high-resolution. Motivated by this, we present a Multi-Level Monte Carlo (MLMC) approach to train neural operators by leveraging a hierarchy of resolutions of function dicretization. Our framework relies on using gradient corrections from fewer samples of fine-resolution data to decrease the computational cost of training while maintaining a high level accuracy. The proposed MLMC training procedure can be applied to any architecture accepting multi-resolution data. Our numerical experiments on a range of state-of-the-art models and test-cases demonstrate improved computational efficiency compared to traditional single-resolution training approaches, and highlight the existence of a Pareto curve between accuracy and computational time, related to the number of samples per resolution.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -29,7 +30,7 @@ abstract: Deep Learning-based Reduced Order Models (DL-ROMs) provide nowadays a 
 #- Source Themes
 featured: false
 
-url_pdf: https://arxiv.org/pdf/2411.05486
+url_pdf: https://arxiv.org/pdf/2505.12940
 url_code:
 url_dataset: ''
 url_poster: ''
