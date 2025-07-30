@@ -6,7 +6,7 @@ authors:
 - Nicola Rares Franco
 - Andrea Manzoni
 date: "2024-04-24T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/s10444-024-10110-1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-08T00:00:00Z"

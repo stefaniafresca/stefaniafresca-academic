@@ -5,7 +5,7 @@ authors:
 - admin
 - Andrea Manzoni
 date: "2025-07-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.cma.2025.117989"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-12-26T00:00:00Z"
