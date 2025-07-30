@@ -5,7 +5,7 @@ authors:
 - admin
 - Simone Brivio
 - Andrea Manzoni
-date: "2024-05-01T00:00:00Z"
+date: "2025-05-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.neunet.2025.107146"
 
 # Schedule page publish date (NOT publication's date).
