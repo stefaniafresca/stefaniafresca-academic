@@ -2,14 +2,14 @@
 title: Invited Speaker @ Workshop
 
 event: Reduced Order and Surrogate Modeling for Digital Twins Workshop
-event_url: https://www.imsi.institute/activities/digital-twins/reduced-order-and-surrogate-modeling-for-digital-twins/
+event_url: https://www.imsi.institute/activities/digital-twins/reduced-order-and-surrogate-modeling-for-digital-twins
 
 location: Institute for Mathematical and Statistical Innovation (IMSI), University of Chicago
 address:
   city: Chicago
   country: USA
 
-summary: I have been invited to give a talk during the Reduced Order and Surrogate Modeling for Digital Twins Workshop, part of the Digital Twins long program, at Institute for Mathematical and Statistical Innovation (IMSI), Chicago.
+summary: "I have been invited to give a talk during the Reduced Order and Surrogate Modeling for Digital Twins Workshop, part of the Digital Twins long program, at Institute for Mathematical and Statistical Innovation (IMSI), Chicago."
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
