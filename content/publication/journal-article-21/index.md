@@ -4,7 +4,7 @@ authors:
 - Simone Brivio
 - admin
 - Andrea Manzoni
-date: "2024-11-08T00:00:00Z"
+date: "2025-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publishDate: "2024-12-26T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computer Methods in Applied Mechanics and Engineering"
+publication: "Computer Methods in Applied Mechanics and Engineering, 442, 117989"
 publication_short: ""
 
 abstract: Deep Learning-based Reduced Order Models (DL-ROMs) provide nowadays a well-established class of accurate surrogate models for complex physical systems described by parametrized PDEs, by nonlinearly compressing the solution manifold into a handful of latent coordinates. Until now, de- sign and application of DL-ROMs mainly focused on physically parameterized problems. Within this work, we provide a novel extension of these architectures to problems featuring geometrical variability and parametrized domains, namely, we propose Continuous Geometry-Aware DL-ROMs (CGA-DL-ROMs). In particular, the space-continuous nature of the proposed architecture matches the need to deal with multi-resolution datasets, which are quite common in the case of geometrically parametrized problems. Moreover, CGA-DL-ROMs are endowed with a strong inductive bias that makes them aware of geometrical parametrizations, thus enhancing both the compression capability and the overall performance of the architecture. Within this work, we justify our findings through a thorough theoretical analysis, and we practically validate our claims by means of a series of numeri- cal tests encompassing physically-and-geometrically parametrized PDEs, ranging from the unsteady Navier-Stokes equations for fluid dynamics to advection-diffusion-reaction equations for mathematical biology.
