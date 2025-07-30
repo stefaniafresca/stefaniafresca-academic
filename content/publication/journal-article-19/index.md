@@ -5,8 +5,8 @@ authors:
 - admin
 - Simone Brivio
 - Andrea Manzoni
-date: "2024-09-13T00:00:00Z"
-doi: ""
+date: "2024-05-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.neunet.2025.107146"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-08-27T00:00:00Z"
@@ -18,7 +18,7 @@ publishDate: "2024-08-27T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Neural Networks, "
+publication: "Neural Networks, 185, 107146"
 publication_short: ""
 
 abstract: In this work, we present the novel mathematical framework of latent dynamics models (LDMs) for reduced order modeling of parameterized nonlinear time-dependent PDEs. Our framework casts this latter task as a nonlinear dimensionality reduction problem, while constraining the latent state to evolve accordingly to an unknown dynamical system. A time-continuous setting is employed to derive error and stability estimates for the LDM approximation of the full order model (FOM) solution. We analyze the impact of using an explicit Runge-Kutta scheme in the time-discrete setting, resulting in the $\delta$LDM formulation, and further explore the learnable setting, $\delta$LDM$_\theta$, where deep neural networks approximate the discrete LDM components, while providing a bounded approximation error with respect to the FOM. 
