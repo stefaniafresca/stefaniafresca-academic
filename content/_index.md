@@ -24,6 +24,15 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
       items:
+        - title: Tenure-Track Assistant Professor
+          company: Department of Mechanical Engineering, University of Washington
+          company_url: 'https://www.me.washington.edu/facultyfinder/stefania-fresca'
+          company_logo: UW
+          location: Seattle, USA
+          date_start: '2025-09-01'
+          date_end: ''
+          description: ''
+
         - title: Visiting Researcher
           company: Department of Computer Science, University of Cambridge
           company_logo: university-of-cambridge
@@ -32,13 +41,13 @@ sections:
           date_end: ''
           description: 'hosted by Prof. Pietro Liò and Prof. Carola Schönlieb'
 
-        - title: Assistant Professor
+        - title: Junior Assistant Professor
           company: Future Artificial Intelligence Research (FAIR) Foundation
           company_url: 'https://future-ai-research.it'
           company_logo: FAIR
           location: Milano, Italy
           date_start: '2023-02-09'
-          date_end: ''
+          date_end: '2025-08-31'
           description: ''
 
         - title: Visiting
@@ -231,15 +240,15 @@ sections:
         Feel free to contact me! \
         Reach out to me with scientific opportunities and deep learning projects.
       # Contact (add or remove contact options as necessary)
-      email: stefania.fresca@polimi.it
+      email: sfresca@uw.edu
       phone: +39 02 2399 4628
       address:
-        street: P.zza Leonardo Da Vinci, 32
-        city: Milano
-        region: MI
-        postcode: '20133'
-        country: Italy
-      directions: Building 14
+        street: Stevens Way NE
+        city: Seattle
+        region: WA
+        postcode: '98195'
+        country: USA
+      directions: Room 204
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

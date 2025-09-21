@@ -26,7 +26,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/stefania-fresca-505447161/
 organizations:
-  - name: Department of Mathematics, Politecnico di Milano
+  - name: Department of Mechanical Engineering, University of Washington
 education:
   courses:
     - course: PhD in Mathematical Models and Methods in Engineering
@@ -45,7 +45,7 @@ role: Assistant Professor
 highlight_name: true
 title: Stefania Fresca
 first_name: Stefania
-email: stefania.fresca@polimi.it
+email: sfresca@uw.edu
 ---
 Stefania Fresca is Tenure-Track Assistant Professor in Physics-based AI at the Department of Mechanical Engineering, University of Washington, Seattle. Previously, she was Junior Assistant Professor in Numerical Analysis at MOX (Laboratory for Modeling and Scientific Computing) - Department of Mathematics, Politecnico di Milano, Italy, within the Future Artificial Intelligence Research (FAIR) Project. \
 After carrying out her PhD in the framework of the ERC Advanced Grant Project iHEART (PI: Prof. Alfio Quarteroni) devoted to cardiac modeling, she spent two years as Post-Doctoral Research Fellow at MOX. \
