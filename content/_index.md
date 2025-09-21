@@ -241,7 +241,7 @@ sections:
         Reach out to me with scientific opportunities and deep learning projects.
       # Contact (add or remove contact options as necessary)
       email: sfresca@uw.edu
-      phone: +39 02 2399 4628
+      phone: +1 206 543 5090
       address:
         street: Stevens Way NE
         city: Seattle
