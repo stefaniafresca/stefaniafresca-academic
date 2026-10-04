@@ -6,7 +6,7 @@ title: 'Beyond Interpolation: Extrapolative reasoning with reinforcement learnin
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Niccolo Grillo
-  - Andrea Toccaceli, 
+  - Andrea Toccaceli 
   - Benjamin Estermann 
   - Joël Mathys
   - admin
