@@ -237,8 +237,8 @@ sections:
       title: Contacts
       subtitle:
       text: |-
-        Feel free to contact me! \
-        Reach out to me with scientific opportunities and deep learning projects.
+        I am always happy to hear from students, researchers, and potential collaborators. \
+        If you have a question, an idea, or a project in scientific machine learning, get in touch!
       # Contact (add or remove contact options as necessary)
       email: sfresca@uw.edu
       phone: +1 206 543 5090
