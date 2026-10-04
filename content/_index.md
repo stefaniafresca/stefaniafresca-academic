@@ -24,7 +24,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
       items:
-        - title: Tenure-Track Assistant Professor
+        - title: Tenure-track Assistant Professor
           company: Department of Mechanical Engineering, University of Washington
           company_url: 'https://www.me.washington.edu/facultyfinder/stefania-fresca'
           company_logo: UW
@@ -33,7 +33,7 @@ sections:
           date_end: ''
           description: ''
 
-        - title: Visiting Researcher
+        - title: Visiting Faculty
           company: Department of Computer Science, University of Cambridge
           company_logo: university-of-cambridge
           location: Cambridge, UK
